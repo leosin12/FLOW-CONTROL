@@ -11,3 +11,6 @@ O que o FlowControl faz:
  
 Contexto:
 Projeto desenvolvido como parte da disciplina de Usina de Projetos Experimentais (UPX II) no Centro Universitário Facens.
+
+Figma:
+https://www.figma.com/make/LDrZsKf92HqYAB3I3jrvOj/UPX-Ideia?t=37UCJZEnvDw4ktj5&fullscreen=1
