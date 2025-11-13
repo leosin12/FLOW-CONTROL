@@ -8,6 +8,6 @@ O que o FlowControl faz:
  * 📈 Dashboards Automáticos: Gera gráficos e relatórios visuais para facilitar a tomada de decisão.
  * 🔒 Segurança de Dados: Centraliza as informações em um banco de dados, evitando versões duplicadas ou arquivos corrompidos.
  * 🤝 Acessibilidade: Interface pensada para quem não é especialista em tecnologia.
- * 
+ 
 Contexto:
 Projeto desenvolvido como parte da disciplina de Usina de Projetos Experimentais (UPX II) no Centro Universitário Facens.
